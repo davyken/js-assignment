@@ -1,4 +1,4 @@
-// question 1
+
 function minNumber(a, b) {
   if (a < b) {
     return a
@@ -7,7 +7,10 @@ function minNumber(a, b) {
   }
 }
 console.log(minNumber(5, 15))
-// question 2
+
+
+
+
 function maxNumber(c, d) {
   if (c < d) {
     return d
@@ -16,12 +19,17 @@ function maxNumber(c, d) {
   }
 }
 console.log(maxNumber(50, 15))
-// question 3
+
+
+
 function sum(a, b) {
   return a + b
 }
 console.log(sum(5, 25))
-// question 4
+
+
+
+
 function pow(a, b) {
   let sum = 1
   for (let i = 1; i <= b; i++) {
